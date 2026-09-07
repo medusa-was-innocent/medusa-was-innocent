@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=4500&pause=1200&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never;about+happy+ending%3F" alt="İKATZYKI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F" alt="İKATZYKI" />
 </div>
 
 <br/>
@@ -55,11 +55,11 @@ class Akatsuki:
 
 <div align="center">
 
-**EN** — The world shall know pain.
+**EN** — "Those who do not understand true pain can never understand true peace. I will never forget the pain that Yahiko suffered. And now... this world shall know pain. Shinra Tensei!"
 
-**ΕΛ** — Ὁ κόσμος τὸν πόνον γνώσεται.
+**ΕΛ** — "Εκείνοι που δεν κατανοούν τον αληθινό πόνο δεν μπορούν ποτέ να κατανοήσουν την αληθινή ειρήνη. Και τώρα... ο κόσμος θα γνωρίσει τον πόνο. Θεϊκή Ώθηση!"
 
-**JP** — 世界に痛みを
+**JP** — "本当の痛みを理解していない者は、本当の平和を理解することはできない。ヤヒコの痛みを俺は忘れない。ここより… 世界に痛みを。神羅天征!"
 
 </div>
 
