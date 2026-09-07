@@ -4,7 +4,7 @@
 <!--                    ⚔️  BANNER SECTION  ⚔️                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E1%BC%A1%CE%9A%CE%91%CE%A4%CE%A3%CE%A5%CE%9A%CE%99+%CE%9D%CE%9F%CE%9A%CE%A4%CE%9F%CE%A3;The+Crimson+Order+Has+Arrived;Where+Olympus+Meets+the+Shinobi+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=42&duration=4500&pause=1200&color=C41E3A&center=true&vCenter=true&multiline=true&width=1400&height=220&lines=%C4%B0KATZYKI;What+if+life+was+never;about+happy+ending%3F" alt="Typing SVG" width="100%" />
 
 <br>
 
@@ -16,14 +16,28 @@
 class Akatsuki:
     def __init__(self):
         self.name = "Devson Meitei"
-        self.title = "Shadow of Olympus"
-        self.rank = "S-Rank Developer"
-        self.chakra = "∞"
-        self.affiliation = "Ἀκατσούκι × Ὄλυμπος"
-    
+        self.title = "Son of Theos"
+        self.rank = "Average guy"
+        self.chakra = "limited"
+        self.affiliation = "Ἀκατσούκι × member"
+
     def jutsu(self):
-        return ["Code no Jutsu", "Debug Sharingan", 
-                "Amaterasu Deploy", "Susanoo Architecture"]
+        naruto = (
+            "Why are you doing this?! "
+            "How can you say you want peace "
+            "when you're destroying everything?!"
+        )
+        pain = (
+            "You speak of your justice, yet you ignore "
+            "the pain your village brought upon ours. "
+            "What about my family? What about my village? "
+            "What about my friends? We are both just ordinary "
+            "men driven to seek vengeance in the name of justice. "
+            "And if one comes to call vengeance justice, such "
+            "justice will only breed further vengeance... "
+            "and trigger a vicious Cycle of Hatred."
+        )
+        return {"Naruto": naruto, "Pain": pain}
 ```
 
 </td>
@@ -49,11 +63,7 @@ class Akatsuki:
 
 <div align="center">
 
-| 🩸 **The Akatsuki Way** | 🏛️ **The Greek Path** |
-|:---:|:---:|
-| Like the Akatsuki, I walk in shadows — crafting powerful systems that reshape the digital world | Like the heroes of Olympus, I seek glory through mastery of my craft |
-| Every line of code is a jutsu — precise, devastating, elegant | Every algorithm is a philosophical argument — logical, beautiful, undeniable |
-| I collect forbidden techniques (frameworks) like Akatsuki collects tailed beasts | I collect wisdom like the Oracle of Delphi collects prophecies |
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nnh3dTBtODh0aWFobzY1dXZpc2I3ODI5cnpmNmRneXF4NTA4ZG1sZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/skF1RMgP3FHfG/giphy.gif" alt="About this shinobi" width="480" />
 
 </div>
 
