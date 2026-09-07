@@ -29,13 +29,13 @@ class Akatsuki:
 </td>
 <td align="center">
 
-### 🏛️ ΨΥΧΗ ΤΟΥ ΠΟΛΕΜΙΣΤΗ
-*"The Soul of a Warrior"*
+### 🏛️ ΜΕΔΟΥΣΑ
+*"Medusa"*
 
-> _"In the shadow of the red moon, we forge our destiny._  
-> _Like the gods of old, we shape the world with code."_
+> _"They fear the power we have_  
+> _when we are truly free."_
 
-— **The Crimson Scroll, Chapter ∞**
+— **Medusa**
 
 </td>
 </tr>
