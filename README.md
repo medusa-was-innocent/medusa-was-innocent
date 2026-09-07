@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F+%F0%9F%94%AA" alt="İKATZYKI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=FFD700&background=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F+%F0%9F%94%AA" alt="İKATZYKI" />
 </div>
 
 <br/>
@@ -112,14 +112,14 @@ Those who do not understand true pain can never understand true peace. I will ne
 ## <p align="center">📊 🏛️ ΣΤΑΤΙΣΤΙΚΑ — Battle Statistics 🏛️ 📊</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C41E3A&icon_color=C41E3A&text_color=FFD700&ring_color=C41E3A" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=C41E3A&text_color=FFD700" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=C41E3A&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=C41E3A&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=C41E3A&line=FFD700&point=C41E3A&area=true&area_color=C41E3A" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=C41E3A&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=8B0000" alt="Activity Graph" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D0D&ring=C41E3A&fire=C41E3A&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=C41E3A&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700" alt="Streak" />
 </div>
 
 ---
@@ -169,22 +169,7 @@ Those who do not understand true pain can never understand true peace. I will ne
 ## <p align="center">📜 🏛️ Ο ΚΩΔΙΚΑΣ — The Crimson Code 🏛️ 📜</p>
 
 <div align="center">
-
-**THE AKATSUKI DEVELOPER'S OATH**
-
-1. Write code that even a god would admire
-2. Debug with the precision of a Sharingan
-3. Deploy in silence, like shadows at dawn
-4. Never push to main without review
-5. Document thy jutsu for future generations
-6. Refactor as the gods refashion the world
-7. Test thy code thrice before release
-8. Honor the open-source pantheon
-9. Mentor the genin who seek thy wisdom
-10. Never stop learning — the path is eternal
-
-*"ΜΟΛΩΝ ΛΑΒΕ" — Come and take it*
-
+  <img src="https://picsum.photos/900/380" alt="Random image" width="900" />
 </div>
 
 ---
@@ -194,7 +179,7 @@ Those who do not understand true pain can never understand true peace. I will ne
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Send_Scroll-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Claws-C41E3A?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Join_Sky-C41E3A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/your_username.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_Order-C41E3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Enter_Temple-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
