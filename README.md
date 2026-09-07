@@ -20,19 +20,18 @@ class Akatsuki:
 
     def jutsu(self):
         naruto = (
-            "Why are you doing this?! "
-            "How can you say you want peace "
-            "when you're destroying everything?!"
+            "Why are you doing this?"
+            " How can you say you want peace when you are destroying everything?"
         )
         pain = (
-            "You speak of your justice, yet you ignore "
-            "the pain your village brought upon ours. "
-            "What about my family? What about my village? "
-            "What about my friends? We are both just ordinary "
-            "men driven to seek vengeance in the name of justice. "
-            "And if one comes to call vengeance justice, such "
-            "justice will only breed further vengeance... "
-            "and trigger a vicious Cycle of Hatred."
+            "You speak of your justice."
+            " Yet you ignore the pain your village brought upon ours."
+            " What about my family?"
+            " What about my village?"
+            " What about my friends?"
+            " We are both just ordinary men driven to seek vengeance in the name of justice."
+            " If vengeance is called justice then that justice only breeds more vengeance."
+            " That is the Cycle of Hatred."
         )
         return {"Naruto": naruto, "Pain": pain}
 </pre>
@@ -139,10 +138,10 @@ class Akatsuki:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Send-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Send_Scroll-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Join_Sky-C41E3A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/your_username.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Enter-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter_Temple-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
