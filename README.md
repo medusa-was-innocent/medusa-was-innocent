@@ -138,10 +138,10 @@ class Akatsuki:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Send_Scroll-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Send-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Join_Sky-C41E3A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/your_username.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Enter_Temple-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
