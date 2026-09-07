@@ -4,6 +4,9 @@
 
 <br/>
 
+<table border="0" width="100%" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="65%" valign="top" style="border: none;">
 <pre align="left">
 class Akatsuki:
     def __init__(self):
@@ -31,17 +34,17 @@ class Akatsuki:
         )
         return {"Naruto": naruto, "Pain": pain}
 </pre>
-
-<div align="center">
-
-### 🏛️ ΜΕΔΟΥΣΑ
-*"Medusa"*
-
-> *"They fear the power we have when we are truly free."*
-
-— **Medusa**
-
-</div>
+    </td>
+    <td width="35%" valign="middle" align="center" style="border: none;">
+      <h3 align="center">🏛️ ΜΕΔΟΥΣΑ</h3>
+      <p align="center"><i>"Medusa"</i></p>
+      <br/>
+      <blockquote align="center"><i>"They fear the power we have when we are truly free."</i></blockquote>
+      <br/>
+      <p align="center">— <b>Medusa</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
