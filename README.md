@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=FFD700&background=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F+%F0%9F%94%AA" alt="İKATZYKI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=180&section=header&text=%E2%9C%A6%20%C4%B0KATZYKI%20%F0%9F%A9%B8%20%E2%9C%A6&fontSize=30&fontColor=FFD700&fontAlignY=38&desc=What%20if%20life%20was%20never%20about%20happy%20ending%3F%20%F0%9F%94%AA&descSize=16&descAlignY=68&descColor=FFD700&animation=fadeIn&font=Cinzel" width="100%" alt="İKATZYKI" />
 </div>
+
+## <p align="center">🕯️ 📜 ΗΝ ΑΝΗΡ — He Was A 📜 🕯️</p>
 
 <br/>
 
@@ -137,10 +139,10 @@ class Akatsuki:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Send_Scroll-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Send-C41E3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-Join_Sky-C41E3A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/your_username.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Enter_Temple-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C41E3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter-C41E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -148,10 +150,11 @@ class Akatsuki:
 
 <div align="center">
 
-<p><strong>fav podcast</strong></p>
+<p><strong>fav place</strong></p>
 
 [![Founder](https://img.shields.io/badge/Founder-Listen-C41E3A?style=for-the-badge&logo=applepodcasts&logoColor=white)](https://www.founderspodcast.com)
 [![Osho](https://img.shields.io/badge/Osho-Listen-C41E3A?style=for-the-badge&logo=sparkfun&logoColor=white)](https://oshoworld.com)
+[![Z](https://img.shields.io/badge/Z-Library-C41E3A?style=for-the-badge&logo=zerodha&logoColor=white)](https://z-lib.sk)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=footer&text=%E2%9C%A6%20medusa-was-innocent%20%E2%9C%A6&fontSize=18&fontColor=FFD700&animation=fadeIn&fontAlignY=62&font=Cinzel" width="100%" alt="medusa-was-innocent"/>
 
