@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F" alt="İKATZYKI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=32&duration=6000&pause=1000&color=C41E3A&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%C4%B0KATZYKI;What+if+life+was+never+%F0%9F%A9%B8;about+happy+ending%3F+%F0%9F%94%AA" alt="İKATZYKI" />
 </div>
 
 <br/>
 
-<table border="0" width="100%" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none;">
-<pre align="left">
+<table>
+  <tr>
+    <td valign="top" width="62%">
+<pre>
 class Akatsuki:
     def __init__(self):
         self.name = "Devson Meitei"
@@ -35,13 +35,11 @@ class Akatsuki:
         return {"Naruto": naruto, "Pain": pain}
 </pre>
     </td>
-    <td width="35%" valign="middle" align="center" style="border: none;">
-      <h3 align="center">🏛️ ΜΕΔΟΥΣΑ</h3>
-      <p align="center"><i>"Medusa"</i></p>
-      <br/>
-      <blockquote align="center"><i>"They fear the power we have when we are truly free."</i></blockquote>
-      <br/>
-      <p align="center">— <b>Medusa</b></p>
+    <td valign="middle" align="center" width="38%">
+      <h3>🏛️ ΜΕΔΟΥΣΑ</h3>
+      <p><em>Medusa</em></p>
+      <p><em>"They fear the power we have when we are truly free."</em></p>
+      <p>— <strong>Medusa</strong></p>
     </td>
   </tr>
 </table>
@@ -58,11 +56,14 @@ class Akatsuki:
 
 <div align="center">
 
-**EN** — "Those who do not understand true pain can never understand true peace. I will never forget the pain that Yahiko suffered. And now... this world shall know pain. Shinra Tensei!"
+### EN
+Those who do not understand true pain can never understand true peace. I will never forget the pain that Yahiko suffered. And now... this world shall know pain. Shinra Tensei!
 
-**ΕΛ** — "Εκείνοι που δεν κατανοούν τον αληθινό πόνο δεν μπορούν ποτέ να κατανοήσουν την αληθινή ειρήνη. Και τώρα... ο κόσμος θα γνωρίσει τον πόνο. Θεϊκή Ώθηση!"
+### ΕΛ
+Εκείνοι που δεν κατανοούν τον αληθινό πόνο δεν μπορούν ποτέ να κατανοήσουν την αληθινή ειρήνη. Και τώρα... ο κόσμος θα γνωρίσει τον πόνο. Θεϊκή Ώθηση!
 
-**JP** — "本当の痛みを理解していない者は、本当の平和を理解することはできない。ヤヒコの痛みを俺は忘れない。ここより… 世界に痛みを。神羅天征!"
+### JP
+本当の痛みを理解していない者は、本当の平和を理解することはできない。ヤヒコの痛みを俺は忘れない。ここより… 世界に痛みを。神羅天征!
 
 </div>
 
