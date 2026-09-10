@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=180&section=header&text=%E2%9C%A6%20%C4%B0KATZYKI%20%F0%9F%A9%B8%20%E2%9C%A6&fontSize=30&fontColor=FFD700&fontAlignY=38&desc=What%20if%20life%20was%20never%20about%20happy%20ending%3F%20%F0%9F%94%AA&descSize=16&descAlignY=68&descColor=FFD700&animation=fadeIn&font=Cinzel" width="100%" alt="İKATZYKI" />
 </div>
 
-## <p align="center"><b><i>🕯️  ΗΝ ΑΝΗΡ — He Was A 📜 🕯️</i></b></p>
+## <p align="center"><b><i>🕯️ 📜  ΗΝ ΑΝΗΡ — He Was A 📜 🕯️</i></b></p>
 
 <br/>
 
